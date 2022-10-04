@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(203, 204, 204);
+}
+
+header, main, footer {
+    min-width: 555px;
+}
+
+header .container, main .container, footer .container {
+    max-width: 555px;
+    margin: auto;
+}
+
+header {
+    background-color: rgb(148, 14, 14);
+}
+
+header h1 {
+    color: aliceblue;
+    font-size: 50px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.nav-bar li {
+    display: inline;
+    margin-left: 10%;
+    color: aliceblue;
+}
+
