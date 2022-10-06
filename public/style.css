@@ -25,6 +25,21 @@ header h1 {
     padding-top: 50px;
 }
 
+a:link  {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar a:visited {
+    text-decoration: none;
+    color: gray;
+}
+
+.nav-bar a:hover{
+    text-decoration: none;
+    color: blue;
+}
+
 .container hr {
     width: 100%; 
     border-color: black; 
